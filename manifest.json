@@ -1,0 +1,9 @@
+{
+  "short_name": "TODO",
+  "name": "TODO App",
+  "author": "Ivan Company",
+  "start_url": "./",
+  "background_color": "white",
+  "theme_color": "#f3a537",
+  "display": "standalone"
+}
